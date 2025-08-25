@@ -74,7 +74,7 @@ Before running this project, make sure you have the following installed on your 
 
 1. **Clone the Repository**
    ```cmd
-   git clone [repository-url]
+   git clone https://github.com/Abhinivesh2729/express-api-example
    cd express-api
    ```
 
